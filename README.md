@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Jared Sales, sou apaixonado por tecnologia e por transformar ideias em soluções digitais. Concluí minha formação em Análise e Desenvolvimento de Sistemas e atualmente estudo Sistemas de Informação. Estou sempre explorando novas ferramentas e boas práticas para criar aplicações modernas, acessíveis e funcionais. 
-Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologias que me inspiram. Cada repositório representa um passo da minha jornada — e estou animado para seguir aprendendo e colaborando com a comunidade dev.
+Me chamo Jared Sales, sou apaixonado por tecnologia e por transformar ideias em soluções digitais.
+Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologias que me inspiram. Cada repositório representa um passo da minha jornada e estou animado para seguir aprendendo e colaborando com a comunidade dev.
 
 
 
