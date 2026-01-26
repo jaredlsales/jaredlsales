@@ -11,6 +11,7 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologia
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
@@ -85,8 +86,13 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologia
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
+
 <br/>
 <br/>
+
+---
+
 
 ### 📊 Estatísticas
 
@@ -107,3 +113,16 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologia
   />
 
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### 🔗 Confira meu portfólio 👉 [jaredlsales.github.io/Portfolio](https://jaredlsales.github.io/Portfolio)
