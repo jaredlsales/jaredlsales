@@ -5,7 +5,7 @@
 Me chamo Jared Sales, sou apaixonado por tecnologia e por transformar ideias em soluções digitais.
 Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologias que me inspiram. Cada repositório representa um passo da minha jornada e estou animado para seguir aprendendo e colaborando com a comunidade dev.
 
-
+#### 🔗 Confira meu portfólio 👉 [jaredlsales.github.io/Portfolio](https://jaredlsales.github.io/Portfolio)
 
 ---
 
@@ -114,16 +114,4 @@ Aqui no GitHub, compartilho meus projetos, estudos e experimentos com tecnologia
 
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
----
-
-### 🔗 Confira meu portfólio 👉 [jaredlsales.github.io/Portfolio](https://jaredlsales.github.io/Portfolio)
