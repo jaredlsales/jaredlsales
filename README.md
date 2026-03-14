@@ -2,8 +2,8 @@
 
 **`Front-End Developer`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jaredsales](https://www.linkedin.com/in/jared-sales/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://jaredlsales.github.io/Portfolio](https://devjaredsales.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-sales/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjaredsales.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaredlsales@outlook.com)
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/jaredlsales/jaredlsales/main/assets/coding.gif?raw=true" />
